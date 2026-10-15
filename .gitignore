@@ -1,0 +1,17 @@
+# Віртуальне середовище
+venv/
+.venv/
+env/
+
+# PyInstaller / Збірка
+build/
+dist/
+*.spec
+
+# Кеш Python
+__pycache__/
+*.py[cod]
+
+# Налаштування IDE
+.idea/
+.vscode/
